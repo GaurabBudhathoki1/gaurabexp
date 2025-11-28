@@ -57,9 +57,12 @@
 </div>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabexp&theme=dark&hide_border=true&layout=compact" />
-</p>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabexp&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
 
 ---
 
