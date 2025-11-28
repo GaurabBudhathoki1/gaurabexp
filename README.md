@@ -50,9 +50,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gaurabexp&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  
+![](https://nirzak-streak-stats.vercel.app/?user=gaurabexp&theme=github_dark&hide_border=false)
+
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabexp&theme=dark&hide_border=true&layout=compact" />
