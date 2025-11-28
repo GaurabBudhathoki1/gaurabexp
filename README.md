@@ -59,7 +59,9 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gaurabexp&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=gaurabexp&color=green&label=Visitors&style=for-the-badge" />
 </p>
+
+
 
 
