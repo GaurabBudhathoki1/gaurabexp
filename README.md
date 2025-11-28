@@ -22,9 +22,12 @@
 ---
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gaurab._.)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurab_zsh)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurabexp@gmail.com)
+<p align="center">
+  <a href="https://discord.gg/gaurab._."><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/gaurab_zsh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:gaurabexp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
 
 ---
 
@@ -43,9 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=gaurabexp&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabexp&theme=dark&hide_border=true&layout=compact)
+
 
 ---
 
@@ -60,4 +61,5 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=gaurabexp&icon=0&color=0" />
 </p>
+
 
