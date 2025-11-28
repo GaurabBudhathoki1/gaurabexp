@@ -74,9 +74,12 @@
 ---
 
 ## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gaurabexp&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=gaurabexp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
 
 ---
 ## My Contribution Graph
