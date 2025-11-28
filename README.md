@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="banner"/>
+  <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="banner"/>
 </p>
 
 ---
@@ -8,8 +8,9 @@
 # <p align="center">👋 Hey, I'm <b>Gaurab</b>!</p>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzMjk3NzUsIm5iZiI6MTc2NDMyOTQ3NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI4VDExMzExNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJiNDhhNjFiZGEyZDdmNjY5NGE0MmVlMDAyNTgzNzljMWE5MmY5ZjNiMjNhZTI3ZDVkNjRmZjU0OGVlZDNmMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aBFPp5IP4wZk77l9FtsJ-dJLgglllXlz9BLkw6D7ZUY" width="260px" alt="me coding"/>
+  <img src="271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="400px" height="300px" />
 </p>
+
 
 ## 💫 About Me
 - 🔭 I’m currently working on **Fullstack Development**  
