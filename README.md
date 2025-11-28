@@ -74,5 +74,6 @@
 
 ## 👁‍🗨 Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaurabexp&color=00BFFF&label=Profile%20Views&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=gaurabexp&color=green&label=Visitors&style=for-the-badge" />
 </p>
+
