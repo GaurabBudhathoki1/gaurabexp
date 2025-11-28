@@ -73,7 +73,14 @@
 </p>
 
 ---
+## My Contribution Graph
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurabexp/gaurabexp/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurabexp/gaurabexp/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gaurabexp/gaurabexp/output/pacman-contribution-graph.svg">
+</picture>
 
+---
 ## 👁‍🗨 Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gaurabexp&color=green&label=Visitors&style=for-the-badge" />
