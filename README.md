@@ -52,15 +52,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=gaurabexp&theme=github_dark&hide_border=false)
 
-</div>
+  <img src="https://streak-stats.demolab.com?user=gaurabexp&theme=github_dark&hide_border=false&cache_bust=1" alt="GitHub Streak" />
 
+  <br/><br/>
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabexp&theme=dark&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gaurabexp&theme=dark&hide_border=true&layout=compact&cache_bust=1" alt="Top Langs" />
 
 </div>
 
