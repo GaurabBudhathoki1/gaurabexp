@@ -71,15 +71,7 @@
 
 ---
 
-## 🔝 Top Contributed Repo
-<div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=gaurabexp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
-
----
 ## My Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurabexp/gaurabexp/output/pacman-contribution-graph-dark.svg">
